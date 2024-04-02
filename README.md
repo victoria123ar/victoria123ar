@@ -3,7 +3,7 @@ Meu nome é Victoria. Sou desenvolvedora FullStack apaixonada por criar aplicaç
 
 ## Sobre Mim 🔍
 
-- Atualmente estou trabalhando no projeto de [**Dimensionamento de Placa de Orifício**](https://github.com/victoria123ar/Dimensionador) 🔭
+- Atualmente estou trabalhando no projeto de [**SimpleRecipes**](https://github.com/victoria123ar/SimpleRecipes-Front) 🔭
 - Estou aprendendo Docker para aprimorar minhas habilidades 🌱
 - Sou formada em Engenharia Química, trazendo uma perspectiva única aos meus projetos ⚡
 
@@ -27,6 +27,6 @@ Aqui estão alguns dos projetos anteriores em que trabalhei:
 2. [**Cineflex**](https://github.com/victoria123ar/Cineflex): Um aplicativo web desenvolvido para um cinema, utilizando React.js para gerenciamento de filmes e reservas de assentos.
 
 ## Projeto em Destaque 🔥
-Atualmente, estou trabalhando no projeto de Dimensionamento de Placa de Orifício, que visa simplificar e automatizar o cálculo do dimensionamento de placa de orifício em processos industriais.
+Atualmente, estou trabalhando no projeto de Simple Recipes, um site de receitas, onde poderá adicionar ou verificar as receitas já salvas.
 
 Se você tiver alguma dúvida ou desejar entrar em contato, fique à vontade para me enviar uma mensagem.
